@@ -1,6 +1,5 @@
 import { Button } from "@mui/material"
 import cardCountries from './CardCountries'
-import Countries from "./Countries"
 // import { observable } from "mobx"
 import { observer } from "mobx-react-lite"
 

@@ -1,5 +1,4 @@
 import { observer } from 'mobx-react-lite'
-import React from 'react'
 import FilterCountry from './FilterCountry'
 import SearchCountries from './SearchCountries'
 import Countries from './Countries'
